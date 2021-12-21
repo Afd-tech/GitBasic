@@ -2,6 +2,7 @@
 new-file.txt
 
 file5.txt
+file-rebase.txt
 
 #ignore all files in new-filess folder
 new-filess/
